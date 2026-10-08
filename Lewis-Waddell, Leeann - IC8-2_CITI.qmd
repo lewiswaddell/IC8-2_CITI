@@ -20,5 +20,5 @@ execute:
 
 # Appendix
 
-- GitHub Repository
-- GitHub Pages
+- [GitHub Repository](https://github.com/lewiswaddell/IC8-2_CITI.git)
+- [GitHub Pages](https://lewiswaddell.github.io/IC8-2_CITI/)
